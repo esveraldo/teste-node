@@ -1,0 +1,27 @@
+{
+  "name": "teste-node",
+  "version": "1.0.0",
+  "description": "Testando funcionalidades do node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esveraldo/teste-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esveraldo/teste-node/issues"
+  },
+  "homepage": "https://github.com/esveraldo/teste-node#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19",
+    "mongose": "0.0.2-security",
+    "request": "^2.88.0"
+  }
+}
